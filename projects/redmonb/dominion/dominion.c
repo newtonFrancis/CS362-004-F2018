@@ -656,7 +656,7 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
   int tributeRevealedCards[2] = {-1, -1};
   int temphand[MAX_HAND];// moved above the if statement
   int drawntreasure=0;
-  int cardDrawn = 0; // initialized to -1
+  int cardDrawn = -1; // initialized to -1
   int z = 0;// this is the counter for the temp hand
   if (nextPlayer > (state->numPlayers - 1)){
     nextPlayer = 0;
@@ -671,29 +671,6 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
 
     case council_room:
       refCouncilRoom(state, currentPlayer, handPos);
-/*
-      //+4 Cards
-      for (i = 0; i < 4; i++)
-	    {
-	       drawCard(currentPlayer, state);
-	    }
-
-      //+1 Buy
-      state->numBuys++;
-
-      //Each other player draws a card
-      for (i = 0; i < state->numPlayers; i++)
-	    {
-	       if ( i != currentPlayer )
-	       {
-	         drawCard(i, state);
-	       }
-	    }
-
-      //put played card in played card pile
-      discardCard(handPos, currentPlayer, state, 0);
-*/
-
       return 0;
 
     case feast:
