@@ -5,8 +5,10 @@
 
 char inputChar()
 {
+    // generate random characters from ASCII 32 - 126
     int n = rand() % (126 - 32 + 1) + 32;
 
+    // return the random character
     return n;
 }
 
@@ -14,14 +16,19 @@ char *inputString()
 {
     static char string[5];
 
+    // initialize the string to null terminators
     memset(&string, 0, sizeof(string));
 
+    // loop through each of the five characters in the string
     for (int i = 0; i < 5; i++)
     {
-      //string[i] = inputChar();
+      // fill each character in the string with a random lower-case letter
       string[i] = (rand() % 26) + 97;
+
+      //string[i] = inputChar();
     }
 
+    // return the string
     return string;
 }
 
@@ -72,9 +79,6 @@ int main(int argc, char *argv[])
 {
     srand(time(NULL));
     testme();
-
-    //for (int i = 32; i <= 126; i++)
-      //printf("%c\n", i);
 
     return 0;
 }
