@@ -1,4 +1,5 @@
 output: testme
+	./testme
 
 chatclient: testme.c
 	gcc testme.c -o testme
