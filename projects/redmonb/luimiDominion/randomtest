@@ -1,0 +1,8 @@
+#!/bin/bash
+echo
+echo "RANDOM TEST #1"
+cat randomtestcard1.out
+echo "RANDOM TEST #2"
+cat randomtestcard2.out
+echo "RANDOM TEST: ADVENTURER"
+cat randomtestadventurer.out

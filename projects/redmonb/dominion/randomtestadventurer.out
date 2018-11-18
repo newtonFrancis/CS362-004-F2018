@@ -1,0 +1,2774 @@
+randomtestadventurer.c:
+handCount: 53 vs. 54
+MEMCMP: 27 (2)
+handCount: 153 vs. 154
+MEMCMP: 188 (105)
+handCount: 473 vs. 474
+MEMCMP: 154 (389)
+handCount: 500 vs. 501
+hand[1][0]: 782794875 vs. 4  (343)
+MEMCMP: 119 (343)
+handCount: 247 vs. 248
+MEMCMP: 63 (59)
+handCount: 108 vs. 109
+MEMCMP: 24 (45)
+handCount: 86 vs. 87
+MEMCMP: 179 (14)
+handCount: 468 vs. 469
+MEMCMP: 47 (239)
+handCount: 66 vs. 67
+MEMCMP: 24 (15)
+handCount: 371 vs. 372
+MEMCMP: 236 (16)
+handCount: 48 vs. 49
+MEMCMP: 41 (16)
+handCount: 372 vs. 373
+MEMCMP: 238 (33)
+handCount: 140 vs. 141
+MEMCMP: 152 (88)
+handCount: 8 vs. 9
+MEMCMP: -4 (3)
+handCount: 484 vs. 485
+MEMCMP: 120 (53)
+handCount: 24 vs. 25
+MEMCMP: 92 (14)
+handCount: 69 vs. 70
+MEMCMP: 57 (53)
+handCount: 438 vs. 439
+MEMCMP: 70 (288)
+handCount: 396 vs. 397
+MEMCMP: 88 (333)
+handCount: 122 vs. 123
+MEMCMP: 52 (13)
+handCount: 436 vs. 437
+MEMCMP: 67 (362)
+handCount: 378 vs. 379
+MEMCMP: 51 (248)
+handCount: 280 vs. 281
+MEMCMP: 109 (170)
+handCount: 471 vs. 472
+MEMCMP: 223 (214)
+handCount: 187 vs. 188
+MEMCMP: 70 (33)
+handCount: 325 vs. 326
+MEMCMP: 72 (210)
+handCount: 22 vs. 23
+MEMCMP: 176 (2)
+handCount: 397 vs. 398
+MEMCMP: 158 (249)
+handCount: 494 vs. 495
+MEMCMP: 6 (165)
+handCount: 125 vs. 126
+MEMCMP: 157 (101)
+handCount: 111 vs. 112
+MEMCMP: 1 (3)
+handCount: 163 vs. 164
+MEMCMP: 250 (82)
+handCount: 236 vs. 237
+MEMCMP: 187 (5)
+handCount: 56 vs. 57
+MEMCMP: 56 (41)
+handCount: 345 vs. 346
+MEMCMP: 216 (16)
+handCount: 190 vs. 191
+MEMCMP: 36 (41)
+handCount: 231 vs. 232
+MEMCMP: 186 (148)
+handCount: 238 vs. 239
+MEMCMP: 87 (37)
+handCount: 436 vs. 437
+MEMCMP: 249 (214)
+handCount: 205 vs. 206
+MEMCMP: 239 (93)
+handCount: 52 vs. 53
+MEMCMP: 105 (37)
+handCount: 96 vs. 97
+MEMCMP: 183 (92)
+handCount: 382 vs. 383
+MEMCMP: 22 (278)
+handCount: 59 vs. 60
+MEMCMP: 62 (19)
+handCount: 366 vs. 367
+MEMCMP: 112 (90)
+handCount: 36 vs. 37
+MEMCMP: 154 (11)
+handCount: 314 vs. 315
+MEMCMP: 231 (110)
+handCount: 353 vs. 354
+MEMCMP: 175 (214)
+handCount: 387 vs. 388
+MEMCMP: 212 (372)
+handCount: 267 vs. 268
+MEMCMP: 204 (225)
+handCount: 249 vs. 250
+MEMCMP: 49 (0)
+handCount: 197 vs. 198
+MEMCMP: 205 (38)
+handCount: 129 vs. 130
+MEMCMP: 86 (9)
+handCount: 368 vs. 369
+MEMCMP: 67 (167)
+handCount: 373 vs. 374
+MEMCMP: 44 (340)
+handCount: 136 vs. 137
+MEMCMP: 47 (112)
+handCount: 82 vs. 83
+MEMCMP: 5 (30)
+handCount: 169 vs. 170
+MEMCMP: 239 (123)
+handCount: 68 vs. 69
+MEMCMP: 103 (6)
+handCount: 246 vs. 247
+MEMCMP: 63 (34)
+handCount: 34 vs. 35
+MEMCMP: 139 (17)
+handCount: 464 vs. 465
+MEMCMP: 133 (265)
+handCount: 278 vs. 279
+MEMCMP: 140 (158)
+handCount: 228 vs. 229
+MEMCMP: 225 (112)
+handCount: 486 vs. 487
+MEMCMP: 239 (36)
+handCount: 458 vs. 459
+MEMCMP: 193 (284)
+handCount: 97 vs. 98
+MEMCMP: 91 (78)
+handCount: 379 vs. 380
+MEMCMP: 100 (297)
+handCount: 133 vs. 134
+MEMCMP: 219 (29)
+handCount: 493 vs. 494
+MEMCMP: 173 (79)
+handCount: 464 vs. 465
+MEMCMP: 217 (14)
+handCount: 91 vs. 92
+MEMCMP: 227 (64)
+handCount: 71 vs. 72
+MEMCMP: 14 (47)
+handCount: 225 vs. 226
+MEMCMP: 95 (30)
+handCount: 293 vs. 294
+MEMCMP: 250 (157)
+handCount: 458 vs. 459
+MEMCMP: 73 (8)
+handCount: 319 vs. 320
+MEMCMP: 5 (80)
+handCount: 325 vs. 326
+MEMCMP: 91 (219)
+handCount: 141 vs. 142
+MEMCMP: 213 (108)
+handCount: 120 vs. 121
+MEMCMP: 212 (102)
+handCount: 145 vs. 146
+MEMCMP: 246 (81)
+handCount: 90 vs. 91
+MEMCMP: 171 (20)
+handCount: 366 vs. 367
+MEMCMP: 225 (89)
+handCount: 65 vs. 66
+MEMCMP: 52 (37)
+handCount: 377 vs. 378
+MEMCMP: 209 (145)
+handCount: 53 vs. 54
+MEMCMP: 142 (29)
+handCount: 94 vs. 95
+MEMCMP: 193 (42)
+handCount: 172 vs. 173
+MEMCMP: 168 (50)
+handCount: 194 vs. 195
+MEMCMP: 47 (7)
+handCount: 176 vs. 177
+MEMCMP: 40 (108)
+handCount: 237 vs. 238
+MEMCMP: 10 (0)
+handCount: 308 vs. 309
+MEMCMP: 125 (160)
+handCount: 186 vs. 187
+MEMCMP: 163 (160)
+handCount: 96 vs. 97
+MEMCMP: 78 (51)
+handCount: 388 vs. 389
+MEMCMP: 184 (57)
+handCount: 438 vs. 439
+MEMCMP: 98 (171)
+handCount: 17 vs. 18
+MEMCMP: 149 (8)
+handCount: 425 vs. 426
+MEMCMP: 136 (82)
+handCount: 474 vs. 475
+MEMCMP: 190 (265)
+handCount: 489 vs. 490
+MEMCMP: 111 (378)
+handCount: 341 vs. 342
+MEMCMP: 220 (2)
+hand[0][453]: -1240874652 vs. 782342007  (11)
+MEMCMP: -19 (11)
+handCount: 357 vs. 358
+MEMCMP: 225 (193)
+handCount: 158 vs. 159
+MEMCMP: 213 (11)
+handCount: 29 vs. 30
+MEMCMP: 36 (4)
+handCount: 261 vs. 262
+MEMCMP: 170 (122)
+handCount: 500 vs. 501
+MEMCMP: 110 (482)
+handCount: 216 vs. 217
+MEMCMP: 201 (5)
+handCount: 12 vs. 13
+MEMCMP: 57 (5)
+handCount: 87 vs. 88
+MEMCMP: 12 (80)
+handCount: 284 vs. 285
+MEMCMP: 190 (115)
+handCount: 214 vs. 215
+MEMCMP: 95 (72)
+handCount: 399 vs. 400
+MEMCMP: 133 (6)
+handCount: 425 vs. 426
+MEMCMP: 90 (41)
+handCount: 160 vs. 161
+MEMCMP: 96 (28)
+handCount: 475 vs. 476
+MEMCMP: 145 (17)
+handCount: 449 vs. 450
+MEMCMP: 87 (398)
+handCount: 351 vs. 352
+MEMCMP: 83 (10)
+handCount: 368 vs. 369
+MEMCMP: 192 (333)
+handCount: 46 vs. 47
+MEMCMP: 194 (15)
+handCount: 159 vs. 160
+MEMCMP: 42 (3)
+handCount: 476 vs. 477
+MEMCMP: 193 (252)
+handCount: 121 vs. 122
+MEMCMP: 192 (78)
+handCount: 235 vs. 236
+MEMCMP: -2 (132)
+handCount: 143 vs. 144
+MEMCMP: 64 (50)
+handCount: 338 vs. 339
+MEMCMP: 178 (143)
+handCount: 395 vs. 396
+MEMCMP: 44 (42)
+handCount: 96 vs. 97
+MEMCMP: 106 (2)
+handCount: 247 vs. 248
+MEMCMP: 10 (107)
+handCount: 252 vs. 253
+MEMCMP: 219 (12)
+handCount: 500 vs. 501
+hand[1][0]: 185992070 vs. 5  (256)
+MEMCMP: 129 (256)
+handCount: 293 vs. 294
+MEMCMP: 97 (134)
+handCount: 439 vs. 440
+MEMCMP: 141 (12)
+handCount: 245 vs. 246
+MEMCMP: 192 (196)
+handCount: 372 vs. 373
+MEMCMP: 193 (329)
+handCount: 197 vs. 198
+MEMCMP: 57 (109)
+handCount: 345 vs. 346
+MEMCMP: 125 (135)
+handCount: 336 vs. 337
+MEMCMP: 187 (88)
+handCount: 392 vs. 393
+MEMCMP: 239 (318)
+handCount: 480 vs. 481
+MEMCMP: 229 (207)
+handCount: 352 vs. 353
+MEMCMP: 218 (127)
+handCount: 376 vs. 377
+MEMCMP: 25 (153)
+handCount: 384 vs. 385
+MEMCMP: 150 (87)
+handCount: 256 vs. 257
+MEMCMP: 113 (119)
+handCount: 19 vs. 20
+MEMCMP: 214 (5)
+handCount: 379 vs. 380
+MEMCMP: 146 (188)
+handCount: 274 vs. 275
+MEMCMP: 122 (167)
+handCount: 463 vs. 464
+MEMCMP: 211 (96)
+handCount: 252 vs. 253
+MEMCMP: 226 (73)
+handCount: 159 vs. 160
+MEMCMP: 196 (49)
+handCount: 214 vs. 215
+MEMCMP: 170 (64)
+handCount: 317 vs. 318
+MEMCMP: 3 (158)
+handCount: 166 vs. 167
+MEMCMP: 242 (46)
+handCount: 200 vs. 201
+MEMCMP: 170 (192)
+handCount: 429 vs. 430
+MEMCMP: 227 (126)
+handCount: 18 vs. 19
+MEMCMP: 243 (0)
+handCount: 327 vs. 328
+MEMCMP: 103 (121)
+handCount: 182 vs. 183
+MEMCMP: 150 (152)
+handCount: 175 vs. 176
+MEMCMP: 112 (119)
+handCount: 359 vs. 360
+MEMCMP: 6 (167)
+handCount: 400 vs. 401
+MEMCMP: 59 (235)
+handCount: 340 vs. 341
+MEMCMP: 80 (187)
+handCount: 162 vs. 163
+MEMCMP: 181 (128)
+handCount: 313 vs. 314
+MEMCMP: 199 (92)
+handCount: 420 vs. 421
+MEMCMP: 41 (283)
+handCount: 386 vs. 387
+MEMCMP: 36 (306)
+handCount: 155 vs. 156
+MEMCMP: 189 (66)
+handCount: 251 vs. 252
+MEMCMP: 64 (215)
+handCount: 467 vs. 468
+MEMCMP: 199 (139)
+handCount: 155 vs. 156
+MEMCMP: 41 (50)
+handCount: 447 vs. 448
+MEMCMP: 162 (36)
+handCount: 262 vs. 263
+MEMCMP: 63 (206)
+handCount: 308 vs. 309
+MEMCMP: 48 (236)
+handCount: 456 vs. 457
+MEMCMP: 60 (271)
+handCount: 135 vs. 136
+MEMCMP: 208 (120)
+handCount: 91 vs. 92
+MEMCMP: 181 (32)
+handCount: 62 vs. 63
+MEMCMP: 55 (3)
+handCount: 500 vs. 501
+MEMCMP: 112 (399)
+handCount: 393 vs. 394
+MEMCMP: 10 (372)
+handCount: 382 vs. 383
+MEMCMP: 2 (261)
+handCount: 382 vs. 383
+MEMCMP: 136 (325)
+handCount: 187 vs. 188
+MEMCMP: 93 (33)
+handCount: 484 vs. 485
+MEMCMP: 196 (388)
+handCount: 280 vs. 281
+MEMCMP: 242 (182)
+handCount: 400 vs. 401
+MEMCMP: 61 (77)
+handCount: 84 vs. 85
+MEMCMP: 117 (14)
+handCount: 248 vs. 249
+MEMCMP: 213 (188)
+handCount: 85 vs. 86
+MEMCMP: 79 (6)
+handCount: 9 vs. 10
+MEMCMP: 79 (3)
+handCount: 82 vs. 83
+MEMCMP: 46 (44)
+handCount: 183 vs. 184
+MEMCMP: 150 (59)
+handCount: 66 vs. 67
+MEMCMP: 212 (20)
+handCount: 6 vs. 7
+MEMCMP: 53 (3)
+handCount: 121 vs. 122
+MEMCMP: 17 (12)
+handCount: 393 vs. 394
+MEMCMP: 236 (136)
+handCount: 358 vs. 359
+MEMCMP: 76 (108)
+handCount: 236 vs. 237
+MEMCMP: 45 (203)
+handCount: 442 vs. 443
+MEMCMP: 235 (363)
+handCount: 367 vs. 368
+MEMCMP: 137 (167)
+handCount: 89 vs. 90
+MEMCMP: 136 (18)
+handCount: 261 vs. 262
+MEMCMP: 143 (18)
+handCount: 468 vs. 469
+MEMCMP: 90 (197)
+handCount: 205 vs. 206
+MEMCMP: 101 (51)
+handCount: 353 vs. 354
+MEMCMP: 127 (273)
+handCount: 461 vs. 462
+MEMCMP: 63 (227)
+handCount: 117 vs. 118
+MEMCMP: 141 (26)
+handCount: 384 vs. 385
+MEMCMP: 15 (206)
+handCount: 116 vs. 117
+MEMCMP: 86 (52)
+handCount: 9 vs. 10
+MEMCMP: 163 (0)
+handCount: 481 vs. 482
+MEMCMP: 222 (219)
+handCount: 495 vs. 496
+MEMCMP: 38 (309)
+handCount: 68 vs. 69
+MEMCMP: 28 (26)
+handCount: 224 vs. 225
+MEMCMP: 207 (169)
+handCount: 109 vs. 110
+MEMCMP: 80 (33)
+handCount: 301 vs. 302
+MEMCMP: -1 (18)
+handCount: 392 vs. 393
+MEMCMP: 96 (236)
+handCount: 407 vs. 408
+MEMCMP: 205 (318)
+handCount: 5 vs. 6
+MEMCMP: 93 (0)
+handCount: 416 vs. 417
+MEMCMP: 234 (340)
+handCount: 287 vs. 288
+MEMCMP: 239 (238)
+handCount: 432 vs. 433
+MEMCMP: 148 (37)
+handCount: 223 vs. 224
+MEMCMP: 194 (204)
+handCount: 448 vs. 449
+MEMCMP: 71 (82)
+handCount: 129 vs. 130
+MEMCMP: 225 (125)
+handCount: 265 vs. 266
+MEMCMP: 172 (160)
+handCount: 68 vs. 69
+MEMCMP: 48 (29)
+handCount: 289 vs. 290
+MEMCMP: 189 (108)
+handCount: 168 vs. 169
+MEMCMP: 171 (37)
+handCount: 377 vs. 378
+MEMCMP: 38 (275)
+handCount: 249 vs. 250
+MEMCMP: 164 (112)
+handCount: 144 vs. 145
+MEMCMP: 105 (123)
+handCount: 327 vs. 328
+MEMCMP: 112 (212)
+handCount: 108 vs. 109
+MEMCMP: 40 (11)
+handCount: 482 vs. 483
+MEMCMP: 156 (183)
+handCount: 248 vs. 249
+MEMCMP: 65 (84)
+handCount: 487 vs. 488
+MEMCMP: 61 (165)
+handCount: 369 vs. 370
+MEMCMP: 77 (32)
+handCount: 82 vs. 83
+MEMCMP: 194 (19)
+handCount: 156 vs. 157
+MEMCMP: 154 (40)
+handCount: 27 vs. 28
+MEMCMP: 217 (23)
+handCount: 268 vs. 269
+MEMCMP: 27 (26)
+handCount: 187 vs. 188
+MEMCMP: 155 (67)
+handCount: 357 vs. 358
+MEMCMP: 212 (329)
+handCount: 429 vs. 430
+MEMCMP: 165 (127)
+handCount: 157 vs. 158
+MEMCMP: 80 (53)
+handCount: 58 vs. 59
+MEMCMP: 212 (5)
+handCount: 12 vs. 13
+MEMCMP: 225 (9)
+handCount: 442 vs. 443
+MEMCMP: 55 (248)
+handCount: 355 vs. 356
+MEMCMP: 8 (318)
+handCount: 189 vs. 190
+MEMCMP: 116 (27)
+handCount: 485 vs. 486
+MEMCMP: 56 (169)
+handCount: 205 vs. 206
+MEMCMP: 60 (165)
+handCount: 314 vs. 315
+MEMCMP: 31 (22)
+handCount: 20 vs. 21
+MEMCMP: 112 (5)
+handCount: 442 vs. 443
+MEMCMP: 132 (114)
+handCount: 114 vs. 115
+MEMCMP: 35 (2)
+handCount: 47 vs. 48
+MEMCMP: 52 (18)
+handCount: 3 vs. 4
+MEMCMP: 63 (0)
+handCount: 217 vs. 218
+MEMCMP: 18 (158)
+handCount: 407 vs. 408
+MEMCMP: 177 (319)
+handCount: 376 vs. 377
+MEMCMP: 130 (13)
+handCount: 293 vs. 294
+MEMCMP: 70 (4)
+handCount: 258 vs. 259
+MEMCMP: 44 (123)
+handCount: 405 vs. 406
+MEMCMP: 38 (137)
+handCount: 101 vs. 102
+MEMCMP: 77 (76)
+handCount: 439 vs. 440
+MEMCMP: 55 (142)
+handCount: 383 vs. 384
+MEMCMP: 206 (286)
+handCount: 221 vs. 222
+MEMCMP: 217 (25)
+handCount: 219 vs. 220
+MEMCMP: 152 (2)
+handCount: 165 vs. 166
+MEMCMP: 24 (33)
+handCount: 172 vs. 173
+MEMCMP: 226 (127)
+handCount: 394 vs. 395
+MEMCMP: 146 (41)
+handCount: 260 vs. 261
+MEMCMP: 61 (10)
+handCount: 310 vs. 311
+MEMCMP: 170 (244)
+handCount: 41 vs. 42
+MEMCMP: 177 (24)
+handCount: 339 vs. 340
+MEMCMP: 95 (241)
+handCount: 461 vs. 462
+MEMCMP: 98 (321)
+handCount: 393 vs. 394
+MEMCMP: 67 (341)
+handCount: 377 vs. 378
+MEMCMP: 33 (307)
+handCount: 449 vs. 450
+MEMCMP: 4 (280)
+handCount: 17 vs. 18
+MEMCMP: 134 (8)
+handCount: 352 vs. 353
+MEMCMP: 64 (308)
+handCount: 246 vs. 247
+MEMCMP: 100 (179)
+handCount: 120 vs. 121
+MEMCMP: 175 (69)
+handCount: 23 vs. 24
+MEMCMP: 231 (20)
+handCount: 492 vs. 493
+MEMCMP: 186 (130)
+handCount: 209 vs. 210
+MEMCMP: 72 (7)
+handCount: 188 vs. 189
+MEMCMP: 110 (113)
+handCount: 349 vs. 350
+MEMCMP: 188 (95)
+handCount: 344 vs. 345
+MEMCMP: 206 (222)
+handCount: 225 vs. 226
+MEMCMP: 154 (217)
+handCount: 399 vs. 400
+MEMCMP: 107 (67)
+handCount: 111 vs. 112
+MEMCMP: 151 (107)
+handCount: 382 vs. 383
+MEMCMP: 103 (377)
+handCount: 349 vs. 350
+MEMCMP: 71 (326)
+handCount: 283 vs. 284
+MEMCMP: 143 (120)
+handCount: 314 vs. 315
+MEMCMP: 55 (147)
+handCount: 420 vs. 421
+MEMCMP: 74 (250)
+handCount: 425 vs. 426
+MEMCMP: 144 (164)
+handCount: 390 vs. 391
+MEMCMP: 178 (209)
+handCount: 429 vs. 430
+MEMCMP: 140 (399)
+handCount: 104 vs. 105
+MEMCMP: 56 (50)
+handCount: 255 vs. 256
+MEMCMP: 45 (32)
+handCount: 79 vs. 80
+MEMCMP: 47 (49)
+handCount: 233 vs. 234
+MEMCMP: 162 (173)
+handCount: 326 vs. 327
+MEMCMP: 66 (228)
+handCount: 469 vs. 470
+MEMCMP: 35 (394)
+handCount: 442 vs. 443
+MEMCMP: 200 (220)
+handCount: 238 vs. 239
+MEMCMP: 66 (18)
+handCount: 164 vs. 165
+MEMCMP: 244 (72)
+handCount: 274 vs. 275
+MEMCMP: 136 (21)
+handCount: 8 vs. 9
+MEMCMP: 199 (0)
+handCount: 113 vs. 114
+MEMCMP: 208 (33)
+handCount: 174 vs. 175
+MEMCMP: 213 (11)
+handCount: 429 vs. 430
+MEMCMP: 27 (174)
+handCount: 346 vs. 347
+MEMCMP: 119 (187)
+handCount: 407 vs. 408
+MEMCMP: 194 (73)
+handCount: 491 vs. 492
+MEMCMP: 118 (422)
+handCount: 472 vs. 473
+MEMCMP: 238 (100)
+handCount: 225 vs. 226
+MEMCMP: 78 (194)
+handCount: 467 vs. 468
+MEMCMP: 172 (400)
+handCount: 242 vs. 243
+MEMCMP: 226 (66)
+handCount: 121 vs. 122
+MEMCMP: 151 (36)
+handCount: 260 vs. 261
+MEMCMP: 30 (231)
+handCount: 431 vs. 432
+MEMCMP: 230 (240)
+handCount: 316 vs. 317
+MEMCMP: 61 (131)
+handCount: 47 vs. 48
+MEMCMP: 223 (27)
+handCount: 169 vs. 170
+MEMCMP: 125 (101)
+handCount: 85 vs. 86
+MEMCMP: 193 (41)
+handCount: 24 vs. 25
+MEMCMP: 29 (8)
+handCount: 27 vs. 28
+MEMCMP: 78 (12)
+handCount: 453 vs. 454
+MEMCMP: 1 (89)
+handCount: 436 vs. 437
+MEMCMP: 2 (47)
+handCount: 266 vs. 267
+MEMCMP: 237 (253)
+handCount: 3 vs. 4
+MEMCMP: 127 (0)
+handCount: 13 vs. 14
+MEMCMP: 20 (7)
+handCount: 301 vs. 302
+MEMCMP: 79 (91)
+handCount: 257 vs. 258
+MEMCMP: 111 (40)
+handCount: 272 vs. 273
+MEMCMP: -3 (153)
+handCount: 422 vs. 423
+MEMCMP: 225 (69)
+handCount: 451 vs. 452
+MEMCMP: 125 (77)
+handCount: 115 vs. 116
+MEMCMP: 181 (40)
+handCount: 393 vs. 394
+MEMCMP: 190 (176)
+handCount: 316 vs. 317
+MEMCMP: 172 (141)
+handCount: 38 vs. 39
+MEMCMP: 79 (12)
+handCount: 344 vs. 345
+MEMCMP: 86 (324)
+handCount: 469 vs. 470
+MEMCMP: 198 (172)
+handCount: 114 vs. 115
+MEMCMP: 139 (4)
+handCount: 259 vs. 260
+MEMCMP: 22 (182)
+handCount: 384 vs. 385
+MEMCMP: 63 (39)
+handCount: 15 vs. 16
+MEMCMP: 236 (7)
+handCount: 242 vs. 243
+MEMCMP: 217 (87)
+handCount: 443 vs. 444
+MEMCMP: 66 (234)
+handCount: 458 vs. 459
+MEMCMP: 41 (341)
+handCount: 201 vs. 202
+MEMCMP: 20 (173)
+handCount: 88 vs. 89
+MEMCMP: 75 (16)
+handCount: 375 vs. 376
+MEMCMP: 215 (115)
+handCount: 33 vs. 34
+MEMCMP: 200 (6)
+handCount: 34 vs. 35
+MEMCMP: 178 (2)
+handCount: 99 vs. 100
+MEMCMP: 237 (53)
+handCount: 396 vs. 397
+MEMCMP: 236 (193)
+handCount: 301 vs. 302
+MEMCMP: 71 (83)
+handCount: 351 vs. 352
+MEMCMP: 125 (18)
+handCount: 331 vs. 332
+MEMCMP: 249 (55)
+handCount: 16 vs. 17
+MEMCMP: 106 (8)
+handCount: 14 vs. 15
+MEMCMP: 14 (8)
+handCount: 198 vs. 199
+MEMCMP: 196 (16)
+handCount: 387 vs. 388
+MEMCMP: 69 (53)
+handCount: 62 vs. 63
+MEMCMP: 177 (25)
+handCount: 69 vs. 70
+MEMCMP: 70 (6)
+handCount: 477 vs. 478
+MEMCMP: 99 (442)
+handCount: 37 vs. 38
+MEMCMP: 242 (7)
+handCount: 485 vs. 486
+MEMCMP: 40 (397)
+handCount: 354 vs. 355
+MEMCMP: 13 (181)
+handCount: 348 vs. 349
+MEMCMP: 207 (182)
+handCount: 387 vs. 388
+MEMCMP: 169 (239)
+handCount: 3 vs. 4
+MEMCMP: 71 (0)
+handCount: 28 vs. 29
+MEMCMP: 181 (21)
+handCount: 167 vs. 168
+MEMCMP: 248 (2)
+handCount: 379 vs. 380
+MEMCMP: 249 (264)
+handCount: 345 vs. 346
+MEMCMP: 42 (65)
+handCount: 335 vs. 336
+MEMCMP: 21 (11)
+handCount: 311 vs. 312
+MEMCMP: 101 (166)
+handCount: 133 vs. 134
+MEMCMP: 49 (130)
+handCount: 83 vs. 84
+MEMCMP: 72 (76)
+handCount: 236 vs. 237
+MEMCMP: 149 (77)
+handCount: 466 vs. 467
+MEMCMP: 122 (67)
+handCount: 131 vs. 132
+MEMCMP: 247 (111)
+handCount: 19 vs. 20
+MEMCMP: 18 (6)
+handCount: 291 vs. 292
+MEMCMP: 91 (264)
+handCount: 74 vs. 75
+MEMCMP: 61 (10)
+handCount: 104 vs. 105
+MEMCMP: 109 (98)
+handCount: 382 vs. 383
+MEMCMP: 104 (310)
+handCount: 471 vs. 472
+MEMCMP: 9 (438)
+handCount: 482 vs. 483
+MEMCMP: 189 (262)
+handCount: 370 vs. 371
+MEMCMP: 106 (243)
+handCount: 10 vs. 11
+MEMCMP: 209 (7)
+handCount: 78 vs. 79
+MEMCMP: 163 (47)
+handCount: 125 vs. 126
+MEMCMP: 152 (82)
+handCount: 389 vs. 390
+MEMCMP: 198 (311)
+handCount: 61 vs. 62
+MEMCMP: 185 (58)
+handCount: 476 vs. 477
+MEMCMP: 145 (41)
+handCount: 113 vs. 114
+MEMCMP: 54 (7)
+handCount: 123 vs. 124
+MEMCMP: 62 (22)
+handCount: 342 vs. 343
+MEMCMP: 39 (322)
+handCount: 483 vs. 484
+MEMCMP: 192 (469)
+handCount: 366 vs. 367
+MEMCMP: 87 (334)
+handCount: 49 vs. 50
+MEMCMP: 76 (41)
+handCount: 366 vs. 367
+MEMCMP: 167 (211)
+handCount: 138 vs. 139
+MEMCMP: 141 (83)
+handCount: 280 vs. 281
+MEMCMP: 119 (255)
+handCount: 479 vs. 480
+MEMCMP: 139 (379)
+handCount: 261 vs. 262
+MEMCMP: 54 (76)
+handCount: 293 vs. 294
+MEMCMP: 38 (252)
+handCount: 408 vs. 409
+MEMCMP: 32 (341)
+handCount: 421 vs. 422
+MEMCMP: 9 (2)
+handCount: 488 vs. 489
+MEMCMP: 74 (462)
+handCount: 148 vs. 149
+MEMCMP: 58 (37)
+handCount: 434 vs. 435
+MEMCMP: 145 (354)
+handCount: 377 vs. 378
+MEMCMP: 54 (225)
+handCount: 494 vs. 495
+MEMCMP: 11 (183)
+handCount: 186 vs. 187
+MEMCMP: 14 (161)
+handCount: 49 vs. 50
+MEMCMP: 101 (38)
+handCount: 147 vs. 148
+MEMCMP: 197 (95)
+handCount: 333 vs. 334
+MEMCMP: 125 (215)
+handCount: 59 vs. 60
+MEMCMP: 128 (40)
+handCount: 283 vs. 284
+MEMCMP: 82 (222)
+handCount: 17 vs. 18
+MEMCMP: -4 (13)
+handCount: 22 vs. 23
+MEMCMP: 88 (5)
+handCount: 263 vs. 264
+MEMCMP: 25 (190)
+handCount: 221 vs. 222
+MEMCMP: 79 (136)
+handCount: 101 vs. 102
+MEMCMP: 132 (37)
+handCount: 76 vs. 77
+MEMCMP: 192 (52)
+handCount: 260 vs. 261
+MEMCMP: 111 (75)
+handCount: 379 vs. 380
+MEMCMP: 240 (60)
+handCount: 445 vs. 446
+MEMCMP: 168 (262)
+handCount: 99 vs. 100
+MEMCMP: 114 (76)
+handCount: 500 vs. 501
+MEMCMP: 33 (48)
+handCount: 482 vs. 483
+MEMCMP: 123 (439)
+handCount: 438 vs. 439
+MEMCMP: -2 (175)
+handCount: 436 vs. 437
+MEMCMP: 247 (20)
+handCount: 341 vs. 342
+MEMCMP: 193 (68)
+handCount: 126 vs. 127
+MEMCMP: 228 (59)
+handCount: 283 vs. 284
+MEMCMP: 152 (36)
+handCount: 381 vs. 382
+MEMCMP: 128 (93)
+handCount: 418 vs. 419
+MEMCMP: -3 (263)
+handCount: 324 vs. 325
+MEMCMP: 159 (245)
+handCount: 274 vs. 275
+MEMCMP: 213 (262)
+handCount: 92 vs. 93
+MEMCMP: 215 (27)
+handCount: 355 vs. 356
+MEMCMP: 150 (232)
+handCount: 471 vs. 472
+MEMCMP: 227 (436)
+handCount: 21 vs. 22
+MEMCMP: 49 (16)
+handCount: 426 vs. 427
+MEMCMP: 108 (133)
+handCount: 331 vs. 332
+MEMCMP: 4 (171)
+handCount: 493 vs. 494
+MEMCMP: 16 (415)
+handCount: 459 vs. 460
+MEMCMP: 222 (194)
+handCount: 19 vs. 20
+MEMCMP: 220 (6)
+handCount: 217 vs. 218
+MEMCMP: 224 (112)
+handCount: 90 vs. 91
+MEMCMP: 198 (81)
+handCount: 439 vs. 440
+MEMCMP: 163 (313)
+handCount: 36 vs. 37
+MEMCMP: 221 (30)
+handCount: 231 vs. 232
+MEMCMP: 234 (64)
+handCount: 452 vs. 453
+MEMCMP: 24 (372)
+handCount: 143 vs. 144
+MEMCMP: 138 (10)
+handCount: 452 vs. 453
+MEMCMP: 93 (226)
+handCount: 18 vs. 19
+MEMCMP: 227 (8)
+handCount: 339 vs. 340
+MEMCMP: 94 (202)
+handCount: 263 vs. 264
+MEMCMP: 178 (112)
+handCount: 82 vs. 83
+MEMCMP: 181 (39)
+handCount: 317 vs. 318
+MEMCMP: 183 (257)
+handCount: 173 vs. 174
+MEMCMP: 133 (23)
+handCount: 104 vs. 105
+MEMCMP: -5 (90)
+handCount: 127 vs. 128
+MEMCMP: 119 (55)
+handCount: 385 vs. 386
+MEMCMP: 103 (323)
+handCount: 485 vs. 486
+MEMCMP: 200 (127)
+handCount: 295 vs. 296
+MEMCMP: 197 (283)
+handCount: 329 vs. 330
+MEMCMP: 232 (59)
+handCount: 388 vs. 389
+MEMCMP: 170 (265)
+handCount: 349 vs. 350
+MEMCMP: 102 (67)
+handCount: 131 vs. 132
+MEMCMP: 153 (60)
+handCount: 112 vs. 113
+MEMCMP: 202 (20)
+handCount: 371 vs. 372
+MEMCMP: 250 (3)
+handCount: 422 vs. 423
+MEMCMP: 37 (91)
+handCount: 381 vs. 382
+MEMCMP: 238 (32)
+handCount: 426 vs. 427
+MEMCMP: 102 (287)
+handCount: 91 vs. 92
+MEMCMP: 55 (19)
+handCount: 338 vs. 339
+MEMCMP: 173 (230)
+handCount: 7 vs. 8
+MEMCMP: 86 (1)
+handCount: 364 vs. 365
+MEMCMP: 156 (107)
+handCount: 301 vs. 302
+MEMCMP: 208 (180)
+handCount: 141 vs. 142
+MEMCMP: 173 (82)
+handCount: 129 vs. 130
+MEMCMP: 233 (33)
+handCount: 125 vs. 126
+MEMCMP: 73 (88)
+handCount: 360 vs. 361
+MEMCMP: 48 (183)
+handCount: 205 vs. 206
+MEMCMP: 215 (15)
+handCount: 362 vs. 363
+MEMCMP: 5 (158)
+handCount: 65 vs. 66
+MEMCMP: 59 (41)
+handCount: 62 vs. 63
+MEMCMP: 44 (30)
+handCount: 159 vs. 160
+MEMCMP: -5 (13)
+handCount: 444 vs. 445
+MEMCMP: 94 (189)
+handCount: 490 vs. 491
+MEMCMP: 174 (128)
+handCount: 422 vs. 423
+MEMCMP: 119 (419)
+handCount: 6 vs. 7
+MEMCMP: 158 (0)
+handCount: 223 vs. 224
+MEMCMP: 164 (81)
+handCount: 347 vs. 348
+MEMCMP: 215 (133)
+handCount: 263 vs. 264
+MEMCMP: 15 (6)
+handCount: 196 vs. 197
+MEMCMP: 69 (40)
+handCount: 76 vs. 77
+MEMCMP: 10 (53)
+handCount: 302 vs. 303
+MEMCMP: 201 (202)
+handCount: 113 vs. 114
+MEMCMP: 161 (75)
+handCount: 181 vs. 182
+MEMCMP: 163 (80)
+handCount: 265 vs. 266
+MEMCMP: 131 (234)
+handCount: 382 vs. 383
+MEMCMP: 170 (116)
+handCount: 165 vs. 166
+MEMCMP: 129 (28)
+handCount: 212 vs. 213
+MEMCMP: 91 (92)
+handCount: 148 vs. 149
+MEMCMP: 67 (37)
+handCount: 468 vs. 469
+MEMCMP: 223 (442)
+handCount: 121 vs. 122
+MEMCMP: 188 (49)
+handCount: 449 vs. 450
+MEMCMP: 208 (341)
+handCount: 471 vs. 472
+MEMCMP: 87 (104)
+handCount: 345 vs. 346
+MEMCMP: 4 (4)
+handCount: 462 vs. 463
+MEMCMP: 55 (117)
+handCount: 497 vs. 498
+MEMCMP: 177 (72)
+handCount: 148 vs. 149
+MEMCMP: -2 (45)
+handCount: 134 vs. 135
+MEMCMP: 39 (7)
+handCount: 489 vs. 490
+MEMCMP: 93 (446)
+handCount: 475 vs. 476
+MEMCMP: 227 (141)
+handCount: 493 vs. 494
+MEMCMP: 107 (362)
+handCount: 429 vs. 430
+MEMCMP: 155 (56)
+handCount: 258 vs. 259
+MEMCMP: 251 (79)
+handCount: 83 vs. 84
+MEMCMP: 202 (65)
+handCount: 354 vs. 355
+MEMCMP: 160 (318)
+handCount: 335 vs. 336
+MEMCMP: 130 (151)
+handCount: 201 vs. 202
+MEMCMP: 145 (192)
+handCount: 383 vs. 384
+MEMCMP: -2 (195)
+handCount: 437 vs. 438
+MEMCMP: 123 (368)
+handCount: 450 vs. 451
+MEMCMP: 168 (99)
+handCount: 22 vs. 23
+MEMCMP: 9 (2)
+handCount: 118 vs. 119
+MEMCMP: 116 (113)
+handCount: 192 vs. 193
+MEMCMP: -2 (112)
+handCount: 371 vs. 372
+MEMCMP: 123 (82)
+handCount: 171 vs. 172
+MEMCMP: 177 (151)
+handCount: 372 vs. 373
+MEMCMP: 80 (291)
+handCount: 374 vs. 375
+MEMCMP: 8 (109)
+handCount: 236 vs. 237
+MEMCMP: 7 (232)
+handCount: 206 vs. 207
+MEMCMP: 170 (10)
+handCount: 215 vs. 216
+MEMCMP: 76 (77)
+handCount: 345 vs. 346
+MEMCMP: 122 (228)
+handCount: 316 vs. 317
+MEMCMP: -1 (33)
+handCount: 483 vs. 484
+MEMCMP: 70 (8)
+handCount: 90 vs. 91
+MEMCMP: 125 (8)
+handCount: 88 vs. 89
+MEMCMP: 192 (80)
+handCount: 358 vs. 359
+MEMCMP: 189 (192)
+handCount: 377 vs. 378
+MEMCMP: 52 (359)
+handCount: 286 vs. 287
+MEMCMP: 193 (211)
+handCount: 11 vs. 12
+MEMCMP: 118 (4)
+handCount: 84 vs. 85
+MEMCMP: 233 (63)
+handCount: 500 vs. 501
+hand[1][0]: 205340903 vs. 5  (394)
+MEMCMP: 226 (394)
+handCount: 55 vs. 56
+MEMCMP: 131 (35)
+handCount: 240 vs. 241
+MEMCMP: 17 (216)
+handCount: 60 vs. 61
+MEMCMP: 163 (37)
+handCount: 341 vs. 342
+MEMCMP: 42 (57)
+handCount: 156 vs. 157
+MEMCMP: 22 (94)
+handCount: 392 vs. 393
+MEMCMP: 9 (361)
+handCount: 325 vs. 326
+MEMCMP: 129 (137)
+handCount: 3 vs. 4
+MEMCMP: 187 (0)
+handCount: 109 vs. 110
+MEMCMP: 196 (101)
+handCount: 317 vs. 318
+MEMCMP: 31 (247)
+handCount: 215 vs. 216
+MEMCMP: 165 (171)
+handCount: 464 vs. 465
+MEMCMP: 155 (172)
+handCount: 385 vs. 386
+MEMCMP: 143 (342)
+handCount: 56 vs. 57
+MEMCMP: 195 (52)
+handCount: 376 vs. 377
+MEMCMP: 210 (8)
+handCount: 301 vs. 302
+MEMCMP: 116 (1)
+handCount: 264 vs. 265
+MEMCMP: 101 (151)
+handCount: 469 vs. 470
+MEMCMP: 250 (89)
+handCount: 149 vs. 150
+MEMCMP: -1 (17)
+handCount: 387 vs. 388
+MEMCMP: 90 (230)
+handCount: 358 vs. 359
+MEMCMP: 100 (307)
+handCount: 166 vs. 167
+MEMCMP: 143 (116)
+handCount: 302 vs. 303
+MEMCMP: 14 (208)
+handCount: 402 vs. 403
+MEMCMP: 146 (177)
+handCount: 86 vs. 87
+MEMCMP: 191 (76)
+handCount: 22 vs. 23
+MEMCMP: 190 (9)
+handCount: 74 vs. 75
+MEMCMP: 72 (5)
+handCount: 323 vs. 324
+MEMCMP: 15 (154)
+handCount: 379 vs. 380
+MEMCMP: 125 (83)
+handCount: 171 vs. 172
+MEMCMP: 241 (130)
+handCount: 420 vs. 421
+MEMCMP: 205 (354)
+handCount: 398 vs. 399
+MEMCMP: 53 (220)
+handCount: 336 vs. 337
+MEMCMP: 141 (11)
+handCount: 302 vs. 303
+MEMCMP: 5 (183)
+handCount: 492 vs. 493
+MEMCMP: 131 (116)
+handCount: 6 vs. 7
+MEMCMP: 75 (1)
+handCount: 4 vs. 5
+MEMCMP: 86 (1)
+handCount: 223 vs. 224
+MEMCMP: 101 (183)
+handCount: 251 vs. 252
+MEMCMP: 29 (111)
+handCount: 155 vs. 156
+MEMCMP: 95 (5)
+handCount: 287 vs. 288
+MEMCMP: 91 (279)
+handCount: 365 vs. 366
+MEMCMP: 155 (50)
+handCount: 66 vs. 67
+MEMCMP: 169 (3)
+handCount: 451 vs. 452
+MEMCMP: 85 (261)
+handCount: 309 vs. 310
+MEMCMP: 246 (227)
+handCount: 160 vs. 161
+MEMCMP: 69 (108)
+handCount: 355 vs. 356
+MEMCMP: 163 (264)
+handCount: 435 vs. 436
+MEMCMP: 126 (103)
+handCount: 257 vs. 258
+MEMCMP: 81 (117)
+handCount: 4 vs. 5
+MEMCMP: 175 (1)
+handCount: 345 vs. 346
+MEMCMP: 140 (110)
+handCount: 206 vs. 207
+MEMCMP: 17 (191)
+handCount: 66 vs. 67
+MEMCMP: 191 (56)
+handCount: 263 vs. 264
+MEMCMP: 101 (204)
+handCount: 254 vs. 255
+MEMCMP: 70 (226)
+handCount: 181 vs. 182
+MEMCMP: 206 (133)
+handCount: 70 vs. 71
+MEMCMP: 117 (8)
+handCount: 164 vs. 165
+MEMCMP: 3 (75)
+handCount: 236 vs. 237
+MEMCMP: 118 (136)
+handCount: 319 vs. 320
+MEMCMP: 160 (112)
+handCount: 350 vs. 351
+MEMCMP: 207 (254)
+handCount: 213 vs. 214
+MEMCMP: 51 (178)
+handCount: 478 vs. 479
+MEMCMP: 209 (222)
+handCount: 183 vs. 184
+MEMCMP: 168 (6)
+handCount: 357 vs. 358
+MEMCMP: 49 (36)
+handCount: 257 vs. 258
+MEMCMP: 6 (194)
+handCount: 124 vs. 125
+MEMCMP: -1 (16)
+handCount: 231 vs. 232
+MEMCMP: 210 (12)
+handCount: 144 vs. 145
+MEMCMP: 224 (49)
+handCount: 327 vs. 328
+MEMCMP: 233 (165)
+handCount: 125 vs. 126
+MEMCMP: 124 (31)
+handCount: 448 vs. 449
+MEMCMP: 102 (417)
+handCount: 24 vs. 25
+MEMCMP: 167 (17)
+handCount: 88 vs. 89
+MEMCMP: 130 (38)
+handCount: 177 vs. 178
+MEMCMP: 125 (108)
+handCount: 400 vs. 401
+MEMCMP: 76 (12)
+handCount: 285 vs. 286
+MEMCMP: 248 (118)
+handCount: 215 vs. 216
+MEMCMP: 5 (174)
+handCount: 441 vs. 442
+MEMCMP: 210 (210)
+handCount: 86 vs. 87
+MEMCMP: 201 (8)
+handCount: 46 vs. 47
+MEMCMP: -3 (6)
+handCount: 408 vs. 409
+MEMCMP: 1 (257)
+handCount: 131 vs. 132
+MEMCMP: 204 (23)
+handCount: 203 vs. 204
+MEMCMP: 225 (168)
+handCount: 129 vs. 130
+MEMCMP: 185 (55)
+handCount: 243 vs. 244
+MEMCMP: -1 (237)
+handCount: 37 vs. 38
+MEMCMP: 60 (3)
+handCount: 81 vs. 82
+MEMCMP: 132 (44)
+handCount: 131 vs. 132
+MEMCMP: 181 (68)
+handCount: 249 vs. 250
+MEMCMP: 167 (195)
+handCount: 150 vs. 151
+MEMCMP: 61 (31)
+handCount: 153 vs. 154
+MEMCMP: 96 (54)
+handCount: 150 vs. 151
+MEMCMP: 233 (51)
+handCount: 468 vs. 469
+MEMCMP: 209 (276)
+handCount: 138 vs. 139
+MEMCMP: 4 (86)
+handCount: 134 vs. 135
+MEMCMP: 152 (124)
+handCount: 36 vs. 37
+MEMCMP: 102 (8)
+handCount: 174 vs. 175
+MEMCMP: 5 (137)
+handCount: 138 vs. 139
+MEMCMP: 10 (120)
+handCount: 430 vs. 431
+MEMCMP: 179 (312)
+handCount: 114 vs. 115
+MEMCMP: 83 (91)
+handCount: 341 vs. 342
+MEMCMP: 182 (224)
+handCount: 105 vs. 106
+MEMCMP: 241 (48)
+handCount: 55 vs. 56
+MEMCMP: 232 (13)
+handCount: 472 vs. 473
+MEMCMP: 161 (13)
+handCount: 190 vs. 191
+MEMCMP: 60 (175)
+handCount: 155 vs. 156
+MEMCMP: 116 (98)
+handCount: 102 vs. 103
+MEMCMP: -2 (59)
+handCount: 469 vs. 470
+MEMCMP: 59 (25)
+handCount: 498 vs. 499
+MEMCMP: 244 (198)
+handCount: 328 vs. 329
+MEMCMP: -6 (259)
+handCount: 87 vs. 88
+MEMCMP: 93 (3)
+handCount: 92 vs. 93
+MEMCMP: 221 (11)
+handCount: 241 vs. 242
+MEMCMP: 84 (128)
+handCount: 412 vs. 413
+MEMCMP: -4 (42)
+handCount: 214 vs. 215
+MEMCMP: 74 (0)
+handCount: 109 vs. 110
+MEMCMP: 90 (21)
+handCount: 243 vs. 244
+MEMCMP: 188 (142)
+handCount: 268 vs. 269
+MEMCMP: 103 (116)
+handCount: 19 vs. 20
+MEMCMP: 132 (6)
+handCount: 194 vs. 195
+MEMCMP: 185 (178)
+handCount: 247 vs. 248
+MEMCMP: 45 (12)
+handCount: 313 vs. 314
+MEMCMP: 108 (177)
+handCount: 24 vs. 25
+MEMCMP: 31 (13)
+handCount: 309 vs. 310
+MEMCMP: 233 (29)
+handCount: 349 vs. 350
+MEMCMP: 199 (302)
+handCount: 459 vs. 460
+MEMCMP: 195 (210)
+handCount: 356 vs. 357
+MEMCMP: 87 (241)
+handCount: 264 vs. 265
+MEMCMP: 205 (163)
+handCount: 335 vs. 336
+MEMCMP: 102 (65)
+handCount: 136 vs. 137
+MEMCMP: -2 (2)
+handCount: 497 vs. 498
+MEMCMP: 243 (295)
+handCount: 468 vs. 469
+MEMCMP: 228 (248)
+handCount: 271 vs. 272
+MEMCMP: 191 (69)
+handCount: 166 vs. 167
+MEMCMP: 226 (82)
+handCount: 420 vs. 421
+MEMCMP: 141 (401)
+handCount: 412 vs. 413
+MEMCMP: 68 (186)
+handCount: 164 vs. 165
+MEMCMP: 99 (45)
+handCount: 351 vs. 352
+MEMCMP: 84 (308)
+handCount: 449 vs. 450
+MEMCMP: 69 (193)
+handCount: 110 vs. 111
+MEMCMP: 233 (107)
+handCount: 12 vs. 13
+MEMCMP: 110 (2)
+handCount: 260 vs. 261
+MEMCMP: 69 (20)
+handCount: 292 vs. 293
+MEMCMP: 141 (81)
+handCount: 230 vs. 231
+MEMCMP: 66 (106)
+handCount: 229 vs. 230
+MEMCMP: 137 (31)
+handCount: 137 vs. 138
+MEMCMP: 104 (112)
+handCount: 62 vs. 63
+MEMCMP: 150 (45)
+handCount: 389 vs. 390
+MEMCMP: 144 (271)
+handCount: 179 vs. 180
+MEMCMP: 51 (86)
+handCount: 212 vs. 213
+MEMCMP: 35 (167)
+handCount: 418 vs. 419
+MEMCMP: 225 (303)
+handCount: 81 vs. 82
+MEMCMP: 36 (11)
+handCount: 367 vs. 368
+MEMCMP: 199 (135)
+handCount: 95 vs. 96
+MEMCMP: 219 (36)
+handCount: 492 vs. 493
+MEMCMP: 196 (90)
+handCount: 385 vs. 386
+MEMCMP: 57 (293)
+handCount: 120 vs. 121
+MEMCMP: 14 (18)
+handCount: 405 vs. 406
+MEMCMP: 44 (258)
+handCount: 153 vs. 154
+MEMCMP: 45 (50)
+handCount: 32 vs. 33
+MEMCMP: 170 (19)
+handCount: 17 vs. 18
+MEMCMP: 70 (6)
+handCount: 372 vs. 373
+MEMCMP: 193 (269)
+handCount: 440 vs. 441
+MEMCMP: 238 (280)
+handCount: 92 vs. 93
+MEMCMP: 181 (3)
+handCount: 276 vs. 277
+MEMCMP: 203 (203)
+handCount: 469 vs. 470
+MEMCMP: 71 (245)
+handCount: 29 vs. 30
+MEMCMP: 203 (23)
+handCount: 25 vs. 26
+MEMCMP: 222 (2)
+handCount: 426 vs. 427
+MEMCMP: 248 (91)
+handCount: 223 vs. 224
+MEMCMP: 180 (36)
+handCount: 399 vs. 400
+MEMCMP: 194 (355)
+handCount: 82 vs. 83
+MEMCMP: 2 (23)
+handCount: 85 vs. 86
+MEMCMP: 123 (27)
+handCount: 456 vs. 457
+MEMCMP: 51 (429)
+handCount: 85 vs. 86
+MEMCMP: 175 (47)
+handCount: 88 vs. 89
+MEMCMP: 234 (68)
+handCount: 45 vs. 46
+MEMCMP: 177 (39)
+handCount: 203 vs. 204
+MEMCMP: 10 (4)
+handCount: 293 vs. 294
+MEMCMP: 96 (62)
+handCount: 109 vs. 110
+MEMCMP: 45 (53)
+handCount: 323 vs. 324
+MEMCMP: 134 (172)
+handCount: 454 vs. 455
+MEMCMP: 39 (8)
+handCount: 236 vs. 237
+MEMCMP: 106 (116)
+handCount: 9 vs. 10
+MEMCMP: 5 (6)
+handCount: 286 vs. 287
+MEMCMP: 78 (51)
+handCount: 169 vs. 170
+MEMCMP: 244 (78)
+handCount: 164 vs. 165
+MEMCMP: 139 (19)
+handCount: 167 vs. 168
+MEMCMP: 13 (97)
+handCount: 433 vs. 434
+MEMCMP: 74 (330)
+handCount: 339 vs. 340
+MEMCMP: 41 (279)
+handCount: 145 vs. 146
+MEMCMP: 24 (124)
+handCount: 176 vs. 177
+MEMCMP: 86 (47)
+handCount: 51 vs. 52
+MEMCMP: 38 (46)
+handCount: 259 vs. 260
+MEMCMP: 97 (111)
+handCount: 28 vs. 29
+MEMCMP: 40 (21)
+handCount: 194 vs. 195
+MEMCMP: 139 (157)
+handCount: 401 vs. 402
+MEMCMP: 167 (102)
+handCount: 401 vs. 402
+MEMCMP: 242 (162)
+handCount: 371 vs. 372
+MEMCMP: 143 (15)
+handCount: 238 vs. 239
+MEMCMP: 148 (119)
+handCount: 35 vs. 36
+MEMCMP: 149 (9)
+handCount: 98 vs. 99
+MEMCMP: 125 (79)
+handCount: 184 vs. 185
+MEMCMP: 144 (109)
+handCount: 446 vs. 447
+MEMCMP: 185 (121)
+handCount: 120 vs. 121
+MEMCMP: 157 (59)
+handCount: 44 vs. 45
+MEMCMP: -2 (23)
+handCount: 441 vs. 442
+MEMCMP: 10 (325)
+handCount: 494 vs. 495
+MEMCMP: 44 (51)
+handCount: 89 vs. 90
+MEMCMP: 47 (13)
+handCount: 471 vs. 472
+MEMCMP: 228 (430)
+handCount: 409 vs. 410
+MEMCMP: 52 (405)
+handCount: 315 vs. 316
+MEMCMP: 80 (129)
+handCount: 462 vs. 463
+MEMCMP: 153 (185)
+handCount: 287 vs. 288
+MEMCMP: 53 (203)
+handCount: 19 vs. 20
+MEMCMP: 30 (9)
+handCount: 47 vs. 48
+MEMCMP: 204 (20)
+handCount: 113 vs. 114
+MEMCMP: 42 (105)
+handCount: 451 vs. 452
+MEMCMP: 224 (76)
+handCount: 5 vs. 6
+MEMCMP: 199 (2)
+handCount: 129 vs. 130
+MEMCMP: 94 (48)
+handCount: 184 vs. 185
+MEMCMP: 215 (17)
+handCount: 364 vs. 365
+MEMCMP: 180 (361)
+handCount: 292 vs. 293
+MEMCMP: 153 (67)
+handCount: 256 vs. 257
+MEMCMP: 184 (93)
+handCount: 419 vs. 420
+MEMCMP: 111 (366)
+handCount: 305 vs. 306
+MEMCMP: 148 (223)
+handCount: 163 vs. 164
+MEMCMP: 116 (75)
+handCount: 445 vs. 446
+MEMCMP: 6 (183)
+handCount: 247 vs. 248
+MEMCMP: 231 (217)
+handCount: 321 vs. 322
+MEMCMP: 63 (138)
+handCount: 31 vs. 32
+MEMCMP: 200 (27)
+handCount: 479 vs. 480
+MEMCMP: 58 (361)
+handCount: 166 vs. 167
+MEMCMP: 30 (153)
+handCount: 404 vs. 405
+MEMCMP: 243 (274)
+handCount: 317 vs. 318
+MEMCMP: 138 (1)
+handCount: 375 vs. 376
+MEMCMP: 201 (9)
+handCount: 143 vs. 144
+MEMCMP: 38 (72)
+handCount: 208 vs. 209
+MEMCMP: 211 (116)
+handCount: 221 vs. 222
+MEMCMP: 228 (116)
+handCount: 419 vs. 420
+MEMCMP: 87 (243)
+handCount: 193 vs. 194
+MEMCMP: 148 (69)
+handCount: 438 vs. 439
+MEMCMP: 128 (209)
+handCount: 162 vs. 163
+MEMCMP: 104 (69)
+handCount: 195 vs. 196
+MEMCMP: 22 (109)
+handCount: 233 vs. 234
+MEMCMP: 167 (143)
+handCount: 77 vs. 78
+MEMCMP: 31 (30)
+handCount: 430 vs. 431
+MEMCMP: 177 (328)
+handCount: 361 vs. 362
+MEMCMP: 233 (275)
+handCount: 221 vs. 222
+MEMCMP: 127 (83)
+handCount: 228 vs. 229
+MEMCMP: 133 (95)
+handCount: 96 vs. 97
+MEMCMP: 186 (31)
+handCount: 98 vs. 99
+MEMCMP: 71 (76)
+handCount: 10 vs. 11
+MEMCMP: 161 (5)
+handCount: 358 vs. 359
+MEMCMP: 101 (234)
+handCount: 496 vs. 497
+MEMCMP: 225 (24)
+handCount: 368 vs. 369
+MEMCMP: 51 (155)
+handCount: 98 vs. 99
+MEMCMP: 248 (81)
+handCount: 193 vs. 194
+MEMCMP: 40 (44)
+handCount: 80 vs. 81
+MEMCMP: 40 (7)
+handCount: 286 vs. 287
+MEMCMP: 28 (72)
+handCount: 450 vs. 451
+MEMCMP: 175 (72)
+handCount: 255 vs. 256
+MEMCMP: 23 (66)
+handCount: 471 vs. 472
+MEMCMP: -3 (245)
+handCount: 487 vs. 488
+MEMCMP: 212 (0)
+handCount: 241 vs. 242
+MEMCMP: 169 (208)
+handCount: 445 vs. 446
+MEMCMP: 170 (118)
+handCount: 104 vs. 105
+MEMCMP: 214 (5)
+handCount: 335 vs. 336
+MEMCMP: 217 (84)
+handCount: 420 vs. 421
+MEMCMP: 9 (70)
+handCount: 226 vs. 227
+MEMCMP: 243 (100)
+handCount: 333 vs. 334
+MEMCMP: -4 (48)
+handCount: 500 vs. 501
+hand[1][0]: -474413892 vs. 6  (429)
+MEMCMP: 182 (429)
+handCount: 101 vs. 102
+MEMCMP: 115 (43)
+handCount: 125 vs. 126
+MEMCMP: 112 (116)
+handCount: 375 vs. 376
+MEMCMP: 80 (245)
+handCount: 163 vs. 164
+MEMCMP: 226 (6)
+handCount: 346 vs. 347
+MEMCMP: 58 (125)
+handCount: 127 vs. 128
+MEMCMP: 218 (21)
+handCount: 319 vs. 320
+MEMCMP: 32 (260)
+handCount: 383 vs. 384
+MEMCMP: 71 (138)
+hand[0][193]: -2000627733 vs. 339464886  (32)
+MEMCMP: 53 (32)
+handCount: 10 vs. 11
+MEMCMP: 57 (7)
+handCount: 183 vs. 184
+MEMCMP: 169 (43)
+handCount: 454 vs. 455
+MEMCMP: 125 (407)
+handCount: 264 vs. 265
+MEMCMP: 128 (54)
+handCount: 33 vs. 34
+MEMCMP: 119 (20)
+handCount: 279 vs. 280
+MEMCMP: 25 (260)
+handCount: 118 vs. 119
+MEMCMP: 249 (1)
+handCount: 98 vs. 99
+MEMCMP: 155 (49)
+handCount: 314 vs. 315
+MEMCMP: 12 (26)
+handCount: 39 vs. 40
+MEMCMP: 201 (5)
+handCount: 100 vs. 101
+MEMCMP: 163 (24)
+handCount: 254 vs. 255
+MEMCMP: 102 (144)
+handCount: 125 vs. 126
+MEMCMP: 127 (93)
+handCount: 350 vs. 351
+MEMCMP: 12 (230)
+handCount: 374 vs. 375
+MEMCMP: 80 (180)
+handCount: 270 vs. 271
+MEMCMP: 41 (67)
+handCount: 294 vs. 295
+MEMCMP: 19 (122)
+handCount: 434 vs. 435
+MEMCMP: 14 (327)
+handCount: 308 vs. 309
+MEMCMP: 177 (61)
+handCount: 87 vs. 88
+MEMCMP: 218 (82)
+handCount: 66 vs. 67
+MEMCMP: 64 (9)
+handCount: 60 vs. 61
+MEMCMP: 53 (27)
+handCount: 115 vs. 116
+MEMCMP: 7 (67)
+handCount: 335 vs. 336
+MEMCMP: 217 (191)
+handCount: 196 vs. 197
+MEMCMP: 215 (85)
+handCount: 178 vs. 179
+MEMCMP: 16 (25)
+handCount: 288 vs. 289
+MEMCMP: 151 (96)
+handCount: 218 vs. 219
+MEMCMP: 22 (47)
+handCount: 228 vs. 229
+MEMCMP: 105 (38)
+handCount: 457 vs. 458
+MEMCMP: 30 (228)
+handCount: 484 vs. 485
+MEMCMP: 223 (122)
+handCount: 226 vs. 227
+MEMCMP: 65 (80)
+handCount: 6 vs. 7
+MEMCMP: 193 (3)
+handCount: 28 vs. 29
+MEMCMP: 232 (8)
+handCount: 421 vs. 422
+MEMCMP: -2 (215)
+handCount: 41 vs. 42
+MEMCMP: 26 (29)
+handCount: 181 vs. 182
+MEMCMP: 136 (135)
+handCount: 149 vs. 150
+MEMCMP: 173 (34)
+handCount: 151 vs. 152
+MEMCMP: 159 (134)
+handCount: 205 vs. 206
+MEMCMP: 94 (155)
+handCount: 297 vs. 298
+MEMCMP: 24 (28)
+handCount: 224 vs. 225
+MEMCMP: 211 (175)
+handCount: 376 vs. 377
+MEMCMP: 138 (182)
+handCount: 452 vs. 453
+MEMCMP: 27 (83)
+handCount: 269 vs. 270
+MEMCMP: 50 (111)
+handCount: 405 vs. 406
+MEMCMP: 177 (258)
+handCount: 149 vs. 150
+MEMCMP: 178 (116)
+handCount: 291 vs. 292
+MEMCMP: 6 (270)
+handCount: 34 vs. 35
+MEMCMP: 50 (23)
+handCount: 425 vs. 426
+MEMCMP: 196 (367)
+handCount: 59 vs. 60
+MEMCMP: 124 (6)
+handCount: 199 vs. 200
+MEMCMP: 49 (147)
+handCount: 423 vs. 424
+MEMCMP: 98 (388)
+handCount: 383 vs. 384
+MEMCMP: 242 (364)
+handCount: 67 vs. 68
+MEMCMP: 180 (8)
+handCount: 174 vs. 175
+MEMCMP: 107 (71)
+handCount: 58 vs. 59
+MEMCMP: 136 (36)
+handCount: 383 vs. 384
+MEMCMP: 177 (93)
+handCount: 311 vs. 312
+MEMCMP: 210 (94)
+handCount: 431 vs. 432
+MEMCMP: 19 (318)
+handCount: 54 vs. 55
+MEMCMP: 178 (8)
+handCount: 212 vs. 213
+MEMCMP: 185 (40)
+handCount: 138 vs. 139
+MEMCMP: 72 (123)
+handCount: 118 vs. 119
+MEMCMP: 211 (11)
+handCount: 7 vs. 8
+MEMCMP: 142 (4)
+handCount: 322 vs. 323
+MEMCMP: 203 (287)
+handCount: 224 vs. 225
+MEMCMP: 51 (208)
+handCount: 406 vs. 407
+MEMCMP: 54 (247)
+handCount: 460 vs. 461
+MEMCMP: 116 (367)
+handCount: 48 vs. 49
+MEMCMP: 104 (2)
+handCount: 411 vs. 412
+MEMCMP: 17 (70)
+handCount: 55 vs. 56
+MEMCMP: -3 (17)
+handCount: 415 vs. 416
+MEMCMP: 144 (45)
+handCount: 466 vs. 467
+MEMCMP: 40 (399)
+handCount: 306 vs. 307
+MEMCMP: 167 (108)
+handCount: 240 vs. 241
+MEMCMP: 32 (79)
+handCount: 416 vs. 417
+MEMCMP: 47 (237)
+handCount: 345 vs. 346
+MEMCMP: 58 (296)
+handCount: 123 vs. 124
+MEMCMP: 20 (2)
+handCount: 435 vs. 436
+MEMCMP: 10 (129)
+handCount: 245 vs. 246
+MEMCMP: 26 (2)
+handCount: 296 vs. 297
+MEMCMP: 97 (208)
+handCount: 82 vs. 83
+MEMCMP: 204 (55)
+handCount: 296 vs. 297
+MEMCMP: 99 (153)
+handCount: 277 vs. 278
+MEMCMP: 58 (11)
+handCount: 209 vs. 210
+MEMCMP: 32 (172)
+handCount: 415 vs. 416
+MEMCMP: 86 (208)
+handCount: 362 vs. 363
+MEMCMP: 207 (75)
+handCount: 346 vs. 347
+MEMCMP: 152 (245)
+handCount: 230 vs. 231
+MEMCMP: 211 (101)
+handCount: 388 vs. 389
+MEMCMP: 201 (74)
+handCount: 44 vs. 45
+MEMCMP: 25 (39)
+handCount: 465 vs. 466
+MEMCMP: 163 (139)
+handCount: 395 vs. 396
+MEMCMP: 18 (71)
+handCount: 407 vs. 408
+MEMCMP: 51 (254)
+handCount: 64 vs. 65
+MEMCMP: 69 (57)
+handCount: 67 vs. 68
+MEMCMP: 91 (43)
+handCount: 430 vs. 431
+MEMCMP: 43 (359)
+handCount: 426 vs. 427
+MEMCMP: 149 (318)
+handCount: 221 vs. 222
+MEMCMP: 45 (51)
+handCount: 121 vs. 122
+MEMCMP: 25 (75)
+handCount: 196 vs. 197
+MEMCMP: 125 (65)
+handCount: 134 vs. 135
+MEMCMP: 72 (62)
+handCount: 393 vs. 394
+MEMCMP: 89 (216)
+handCount: 328 vs. 329
+MEMCMP: 238 (137)
+handCount: 345 vs. 346
+MEMCMP: 211 (259)
+handCount: 304 vs. 305
+MEMCMP: 107 (205)
+handCount: 45 vs. 46
+MEMCMP: 82 (4)
+handCount: 188 vs. 189
+MEMCMP: 244 (42)
+handCount: 436 vs. 437
+MEMCMP: 77 (44)
+handCount: 407 vs. 408
+MEMCMP: 235 (287)
+handCount: 472 vs. 473
+MEMCMP: 84 (362)
+handCount: 296 vs. 297
+MEMCMP: 40 (218)
+handCount: 238 vs. 239
+MEMCMP: 16 (45)
+handCount: 96 vs. 97
+MEMCMP: 174 (84)
+handCount: 7 vs. 8
+MEMCMP: 172 (4)
+handCount: 178 vs. 179
+MEMCMP: 48 (145)
+handCount: 352 vs. 353
+MEMCMP: 59 (83)
+handCount: 103 vs. 104
+MEMCMP: 133 (8)
+handCount: 439 vs. 440
+MEMCMP: 86 (109)
+handCount: 287 vs. 288
+MEMCMP: 21 (39)
+handCount: 46 vs. 47
+MEMCMP: 92 (30)
+handCount: 473 vs. 474
+MEMCMP: 163 (469)
+handCount: 111 vs. 112
+MEMCMP: 23 (106)
+handCount: 19 vs. 20
+MEMCMP: 135 (4)
+handCount: 281 vs. 282
+MEMCMP: 105 (191)
+handCount: 367 vs. 368
+MEMCMP: 137 (73)
+handCount: 223 vs. 224
+MEMCMP: 49 (183)
+handCount: 151 vs. 152
+MEMCMP: 85 (4)
+handCount: 196 vs. 197
+MEMCMP: 228 (113)
+handCount: 365 vs. 366
+MEMCMP: 24 (244)
+handCount: 39 vs. 40
+MEMCMP: 104 (35)
+handCount: 297 vs. 298
+MEMCMP: 47 (49)
+handCount: 436 vs. 437
+MEMCMP: 1 (205)
+handCount: 422 vs. 423
+MEMCMP: 234 (195)
+handCount: 92 vs. 93
+MEMCMP: 222 (9)
+handCount: 217 vs. 218
+MEMCMP: 181 (64)
+handCount: 251 vs. 252
+MEMCMP: 4 (86)
+handCount: 406 vs. 407
+MEMCMP: -5 (75)
+handCount: 472 vs. 473
+MEMCMP: 142 (90)
+handCount: 248 vs. 249
+MEMCMP: 51 (109)
+handCount: 468 vs. 469
+MEMCMP: 39 (229)
+handCount: 359 vs. 360
+MEMCMP: 154 (104)
+handCount: 40 vs. 41
+MEMCMP: 190 (32)
+handCount: 351 vs. 352
+MEMCMP: 38 (150)
+handCount: 266 vs. 267
+MEMCMP: 64 (244)
+handCount: 393 vs. 394
+MEMCMP: 1 (379)
+handCount: 320 vs. 321
+MEMCMP: 167 (104)
+handCount: 89 vs. 90
+MEMCMP: 168 (27)
+handCount: 366 vs. 367
+MEMCMP: 240 (72)
+handCount: 217 vs. 218
+MEMCMP: 102 (140)
+handCount: 314 vs. 315
+MEMCMP: 136 (69)
+handCount: 191 vs. 192
+MEMCMP: 137 (40)
+handCount: 469 vs. 470
+MEMCMP: 12 (308)
+handCount: 276 vs. 277
+MEMCMP: 248 (184)
+handCount: 6 vs. 7
+MEMCMP: 29 (3)
+handCount: 478 vs. 479
+MEMCMP: 152 (31)
+handCount: 183 vs. 184
+MEMCMP: 16 (65)
+handCount: 225 vs. 226
+MEMCMP: 206 (113)
+handCount: 250 vs. 251
+MEMCMP: 208 (186)
+handCount: 425 vs. 426
+MEMCMP: 128 (102)
+handCount: 44 vs. 45
+MEMCMP: 89 (37)
+handCount: 38 vs. 39
+MEMCMP: 106 (8)
+handCount: 20 vs. 21
+MEMCMP: 77 (10)
+handCount: 80 vs. 81
+MEMCMP: 103 (52)
+handCount: 373 vs. 374
+MEMCMP: 87 (296)
+handCount: 163 vs. 164
+MEMCMP: 2 (97)
+handCount: 128 vs. 129
+MEMCMP: 191 (42)
+handCount: 467 vs. 468
+MEMCMP: 80 (333)
+handCount: 179 vs. 180
+MEMCMP: 178 (157)
+handCount: 351 vs. 352
+MEMCMP: 162 (250)
+handCount: 45 vs. 46
+MEMCMP: 111 (23)
+handCount: 419 vs. 420
+MEMCMP: 140 (367)
+handCount: 312 vs. 313
+MEMCMP: 42 (50)
+handCount: 347 vs. 348
+MEMCMP: 244 (311)
+handCount: 353 vs. 354
+MEMCMP: 216 (73)
+handCount: 144 vs. 145
+MEMCMP: 126 (58)
+handCount: 361 vs. 362
+MEMCMP: 108 (239)
+handCount: 178 vs. 179
+MEMCMP: 55 (135)
+handCount: 73 vs. 74
+MEMCMP: 6 (68)
+handCount: 269 vs. 270
+MEMCMP: 103 (14)
+handCount: 310 vs. 311
+MEMCMP: 124 (127)
+handCount: 490 vs. 491
+MEMCMP: 171 (218)
+handCount: 18 vs. 19
+MEMCMP: 195 (0)
+handCount: 325 vs. 326
+MEMCMP: 36 (178)
+handCount: 20 vs. 21
+MEMCMP: 200 (0)
+handCount: 83 vs. 84
+MEMCMP: 72 (19)
+handCount: 238 vs. 239
+MEMCMP: 112 (49)
+handCount: 285 vs. 286
+MEMCMP: 59 (234)
+handCount: 13 vs. 14
+MEMCMP: 223 (8)
+handCount: 314 vs. 315
+MEMCMP: 139 (205)
+handCount: 316 vs. 317
+MEMCMP: 164 (206)
+handCount: 286 vs. 287
+MEMCMP: 2 (65)
+handCount: 494 vs. 495
+MEMCMP: 139 (143)
+handCount: 111 vs. 112
+MEMCMP: 162 (49)
+handCount: 234 vs. 235
+MEMCMP: 114 (199)
+handCount: 76 vs. 77
+MEMCMP: 141 (70)
+handCount: 450 vs. 451
+MEMCMP: 234 (395)
+handCount: 219 vs. 220
+MEMCMP: 222 (75)
+handCount: 290 vs. 291
+MEMCMP: 128 (204)
+handCount: 248 vs. 249
+MEMCMP: 217 (237)
+handCount: 278 vs. 279
+MEMCMP: 83 (163)
+handCount: 298 vs. 299
+MEMCMP: 189 (0)
+handCount: 381 vs. 382
+MEMCMP: 154 (293)
+handCount: 256 vs. 257
+MEMCMP: 127 (232)
+handCount: 457 vs. 458
+MEMCMP: 51 (292)
+handCount: 206 vs. 207
+MEMCMP: 201 (146)
+handCount: 395 vs. 396
+MEMCMP: 192 (282)
+handCount: 64 vs. 65
+MEMCMP: 213 (41)
+handCount: 158 vs. 159
+MEMCMP: 90 (90)
+handCount: 14 vs. 15
+MEMCMP: 43 (5)
+handCount: 475 vs. 476
+MEMCMP: 128 (60)
+handCount: 449 vs. 450
+MEMCMP: 66 (277)
+handCount: 15 vs. 16
+MEMCMP: 118 (8)
+handCount: 367 vs. 368
+MEMCMP: 28 (329)
+handCount: 495 vs. 496
+MEMCMP: 167 (50)
+handCount: 400 vs. 401
+MEMCMP: 100 (132)
+handCount: 231 vs. 232
+MEMCMP: 187 (25)
+handCount: 351 vs. 352
+MEMCMP: 65 (249)
+handCount: 92 vs. 93
+MEMCMP: 185 (8)
+handCount: 241 vs. 242
+MEMCMP: 104 (66)
+handCount: 307 vs. 308
+MEMCMP: 174 (268)
+handCount: 359 vs. 360
+MEMCMP: 155 (266)
+handCount: 174 vs. 175
+MEMCMP: 209 (119)
+handCount: 136 vs. 137
+MEMCMP: 85 (15)
+handCount: 169 vs. 170
+MEMCMP: 147 (5)
+handCount: 296 vs. 297
+MEMCMP: 225 (43)
+handCount: 448 vs. 449
+MEMCMP: 248 (380)
+handCount: 277 vs. 278
+MEMCMP: 33 (219)
+handCount: 455 vs. 456
+MEMCMP: 95 (174)
+handCount: 220 vs. 221
+MEMCMP: 242 (165)
+handCount: 437 vs. 438
+MEMCMP: 189 (20)
+handCount: 370 vs. 371
+MEMCMP: 43 (112)
+handCount: 325 vs. 326
+MEMCMP: 85 (81)
+handCount: 216 vs. 217
+MEMCMP: 228 (4)
+handCount: 16 vs. 17
+MEMCMP: 198 (6)
+handCount: 133 vs. 134
+MEMCMP: 69 (12)
+handCount: 432 vs. 433
+MEMCMP: 96 (284)
+handCount: 394 vs. 395
+MEMCMP: 247 (330)
+handCount: 77 vs. 78
+MEMCMP: 60 (62)
+handCount: 458 vs. 459
+MEMCMP: 243 (94)
+handCount: 381 vs. 382
+MEMCMP: 6 (294)
+handCount: 21 vs. 22
+MEMCMP: 88 (7)
+handCount: 6 vs. 7
+MEMCMP: 101 (2)
+handCount: 412 vs. 413
+MEMCMP: 188 (308)
+handCount: 331 vs. 332
+MEMCMP: 211 (170)
+handCount: 264 vs. 265
+MEMCMP: 195 (7)
+handCount: 140 vs. 141
+MEMCMP: 243 (48)
+handCount: 115 vs. 116
+MEMCMP: 145 (54)
+handCount: 357 vs. 358
+MEMCMP: 226 (7)
+handCount: 435 vs. 436
+MEMCMP: 23 (319)
+handCount: 169 vs. 170
+MEMCMP: 193 (75)
+handCount: 292 vs. 293
+MEMCMP: 33 (167)
+handCount: 159 vs. 160
+MEMCMP: 202 (144)
+handCount: 281 vs. 282
+MEMCMP: 237 (54)
+handCount: 284 vs. 285
+MEMCMP: 38 (140)
+handCount: 429 vs. 430
+MEMCMP: 177 (361)
+handCount: 134 vs. 135
+MEMCMP: 216 (5)
+handCount: 46 vs. 47
+MEMCMP: 213 (30)
+handCount: 434 vs. 435
+MEMCMP: 219 (304)
+handCount: 215 vs. 216
+MEMCMP: 95 (96)
+handCount: 329 vs. 330
+MEMCMP: 70 (122)
+handCount: 158 vs. 159
+MEMCMP: 8 (14)
+handCount: 119 vs. 120
+MEMCMP: 214 (52)
+handCount: 100 vs. 101
+MEMCMP: 204 (46)
+handCount: 334 vs. 335
+MEMCMP: 203 (290)
+handCount: 99 vs. 100
+MEMCMP: 206 (32)
+handCount: 294 vs. 295
+MEMCMP: 20 (271)
+handCount: 254 vs. 255
+MEMCMP: 75 (188)
+handCount: 187 vs. 188
+MEMCMP: 64 (130)
+handCount: 460 vs. 461
+MEMCMP: 160 (273)
+handCount: 431 vs. 432
+MEMCMP: 62 (57)
+handCount: 99 vs. 100
+MEMCMP: 203 (2)
+handCount: 144 vs. 145
+MEMCMP: 130 (48)
+handCount: 187 vs. 188
+MEMCMP: 122 (58)
+handCount: 484 vs. 485
+MEMCMP: 219 (352)
+handCount: 260 vs. 261
+MEMCMP: 150 (112)
+handCount: 314 vs. 315
+MEMCMP: 53 (45)
+handCount: 450 vs. 451
+MEMCMP: 136 (193)
+handCount: 180 vs. 181
+MEMCMP: 6 (145)
+handCount: 117 vs. 118
+MEMCMP: 160 (9)
+handCount: 362 vs. 363
+MEMCMP: 232 (80)
+handCount: 96 vs. 97
+MEMCMP: 92 (81)
+handCount: 377 vs. 378
+MEMCMP: 15 (222)
+handCount: 140 vs. 141
+MEMCMP: 74 (72)
+handCount: 203 vs. 204
+MEMCMP: 229 (43)
+handCount: 80 vs. 81
+MEMCMP: 149 (6)
+handCount: 485 vs. 486
+MEMCMP: 9 (266)
+handCount: 16 vs. 17
+MEMCMP: 60 (10)
+handCount: 97 vs. 98
+MEMCMP: 210 (42)
+handCount: 99 vs. 100
+MEMCMP: 162 (50)
+handCount: 42 vs. 43
+MEMCMP: 190 (3)
+handCount: 158 vs. 159
+MEMCMP: 68 (72)
+handCount: 499 vs. 500
+MEMCMP: 205 (0)
+handCount: 261 vs. 262
+MEMCMP: 239 (96)
+handCount: 234 vs. 235
+MEMCMP: 247 (34)
+handCount: 94 vs. 95
+MEMCMP: 86 (1)
+handCount: 27 vs. 28
+MEMCMP: -1 (23)
+handCount: 322 vs. 323
+MEMCMP: 244 (131)
+handCount: 214 vs. 215
+MEMCMP: 176 (4)
+handCount: 186 vs. 187
+MEMCMP: 42 (79)
+handCount: 350 vs. 351
+MEMCMP: 18 (222)
+handCount: 444 vs. 445
+MEMCMP: 31 (199)
+handCount: 24 vs. 25
+MEMCMP: 108 (15)
+handCount: 364 vs. 365
+MEMCMP: 14 (224)
+handCount: 293 vs. 294
+MEMCMP: 130 (106)
+handCount: 57 vs. 58
+MEMCMP: 207 (0)
+handCount: 481 vs. 482
+MEMCMP: 115 (313)
+handCount: 324 vs. 325
+MEMCMP: 78 (163)
+handCount: 61 vs. 62
+MEMCMP: 165 (51)
+handCount: 80 vs. 81
+MEMCMP: 149 (5)
+handCount: 415 vs. 416
+MEMCMP: 22 (56)
+handCount: 347 vs. 348
+MEMCMP: 218 (132)
+handCount: 224 vs. 225
+MEMCMP: 125 (167)
+handCount: 297 vs. 298
+MEMCMP: 149 (256)
+handCount: 46 vs. 47
+MEMCMP: 147 (35)
+handCount: 31 vs. 32
+MEMCMP: 177 (22)
+handCount: 357 vs. 358
+MEMCMP: 111 (141)
+handCount: 408 vs. 409
+MEMCMP: 4 (364)
+handCount: 475 vs. 476
+MEMCMP: 22 (131)
+handCount: 496 vs. 497
+MEMCMP: 3 (197)
+handCount: 408 vs. 409
+MEMCMP: 219 (387)
+handCount: 257 vs. 258
+MEMCMP: 72 (154)
+handCount: 472 vs. 473
+MEMCMP: -1 (91)
+handCount: 143 vs. 144
+MEMCMP: 27 (14)
+handCount: 194 vs. 195
+MEMCMP: 81 (112)
+handCount: 136 vs. 137
+MEMCMP: 203 (98)
+handCount: 95 vs. 96
+MEMCMP: 22 (58)
+handCount: 255 vs. 256
+MEMCMP: 228 (77)
+handCount: 144 vs. 145
+MEMCMP: 49 (67)
+handCount: 231 vs. 232
+MEMCMP: 214 (191)
+handCount: 52 vs. 53
+MEMCMP: 47 (21)
+handCount: 467 vs. 468
+MEMCMP: 208 (40)
+handCount: 442 vs. 443
+MEMCMP: 185 (10)
+handCount: 279 vs. 280
+MEMCMP: 153 (73)
+handCount: 408 vs. 409
+MEMCMP: 33 (261)
+handCount: 219 vs. 220
+MEMCMP: 9 (69)
+handCount: 250 vs. 251
+MEMCMP: 22 (12)
+handCount: 347 vs. 348
+MEMCMP: 206 (148)
+handCount: 55 vs. 56
+MEMCMP: 191 (31)
+handCount: 461 vs. 462
+MEMCMP: 14 (228)
+handCount: 407 vs. 408
+MEMCMP: 244 (293)
+handCount: 209 vs. 210
+MEMCMP: 228 (21)
+handCount: 136 vs. 137
+MEMCMP: 168 (12)
+handCount: 292 vs. 293
+MEMCMP: 203 (236)
+handCount: 348 vs. 349
+MEMCMP: 18 (274)
+handCount: 22 vs. 23
+MEMCMP: 162 (18)
+handCount: 306 vs. 307
+MEMCMP: 147 (59)
+handCount: 418 vs. 419
+MEMCMP: 48 (175)
+handCount: 128 vs. 129
+MEMCMP: 185 (31)
+handCount: 235 vs. 236
+MEMCMP: 83 (17)
+handCount: 52 vs. 53
+MEMCMP: 249 (12)
+handCount: 421 vs. 422
+MEMCMP: 187 (78)
+handCount: 73 vs. 74
+MEMCMP: 134 (70)
+handCount: 62 vs. 63
+MEMCMP: 76 (17)
+handCount: 145 vs. 146
+MEMCMP: 206 (61)
+handCount: 407 vs. 408
+MEMCMP: 235 (216)
+handCount: 455 vs. 456
+MEMCMP: 70 (88)
+handCount: 176 vs. 177
+MEMCMP: 192 (126)
+handCount: 376 vs. 377
+MEMCMP: 199 (117)
+handCount: 126 vs. 127
+MEMCMP: 51 (96)
+handCount: 175 vs. 176
+MEMCMP: 158 (140)
+handCount: 407 vs. 408
+MEMCMP: 87 (205)
+handCount: 233 vs. 234
+MEMCMP: 87 (54)
+handCount: 181 vs. 182
+MEMCMP: 112 (101)
+handCount: 186 vs. 187
+MEMCMP: 241 (20)
+handCount: 89 vs. 90
+MEMCMP: 8 (81)
+handCount: 475 vs. 476
+MEMCMP: 238 (251)
+handCount: 340 vs. 341
+MEMCMP: 204 (174)
+handCount: 445 vs. 446
+MEMCMP: 145 (141)
+handCount: 213 vs. 214
+MEMCMP: 1 (53)
+handCount: 172 vs. 173
+MEMCMP: 190 (73)
+handCount: 183 vs. 184
+MEMCMP: 223 (82)
+handCount: 210 vs. 211
+MEMCMP: 187 (166)
+handCount: 354 vs. 355
+MEMCMP: 43 (148)
+handCount: 341 vs. 342
+MEMCMP: 81 (318)
+handCount: 435 vs. 436
+MEMCMP: 191 (164)
+handCount: 221 vs. 222
+MEMCMP: 22 (88)
+handCount: 193 vs. 194
+MEMCMP: 198 (155)
+handCount: 158 vs. 159
+MEMCMP: 175 (41)
+handCount: 310 vs. 311
+MEMCMP: 109 (251)
+handCount: 18 vs. 19
+MEMCMP: 210 (11)
+handCount: 177 vs. 178
+MEMCMP: 229 (41)
+handCount: 444 vs. 445
+MEMCMP: 59 (209)
+handCount: 99 vs. 100
+MEMCMP: 98 (76)
+handCount: 497 vs. 498
+MEMCMP: 76 (276)
+handCount: 354 vs. 355
+MEMCMP: 10 (174)
+handCount: 463 vs. 464
+MEMCMP: 68 (101)
+handCount: 388 vs. 389
+MEMCMP: 116 (71)
+handCount: 443 vs. 444
+MEMCMP: 49 (219)
+handCount: 435 vs. 436
+MEMCMP: 28 (124)
+handCount: 424 vs. 425
+MEMCMP: 234 (380)
+handCount: 405 vs. 406
+MEMCMP: 60 (95)
+handCount: 125 vs. 126
+MEMCMP: 70 (15)
+handCount: 111 vs. 112
+MEMCMP: 77 (101)
+handCount: 370 vs. 371
+MEMCMP: 215 (215)
+handCount: 477 vs. 478
+MEMCMP: 75 (464)
+handCount: 483 vs. 484
+MEMCMP: 54 (158)
+handCount: 398 vs. 399
+MEMCMP: 21 (35)
+handCount: 155 vs. 156
+MEMCMP: 155 (4)
+handCount: 204 vs. 205
+MEMCMP: 213 (108)
+handCount: 221 vs. 222
+MEMCMP: 208 (61)
+handCount: 217 vs. 218
+MEMCMP: 213 (69)
+handCount: 192 vs. 193
+MEMCMP: 60 (157)
+handCount: 67 vs. 68
+MEMCMP: 157 (53)
+handCount: 405 vs. 406
+MEMCMP: 175 (358)
+handCount: 407 vs. 408
+MEMCMP: 201 (126)
+handCount: 131 vs. 132
+MEMCMP: 203 (13)
+handCount: 355 vs. 356
+MEMCMP: 61 (127)
+handCount: 192 vs. 193
+MEMCMP: 122 (156)
+handCount: 434 vs. 435
+MEMCMP: 115 (411)
+handCount: 201 vs. 202
+MEMCMP: 118 (48)
+handCount: 334 vs. 335
+MEMCMP: 4 (88)
+handCount: 233 vs. 234
+MEMCMP: 26 (201)
+handCount: 56 vs. 57
+MEMCMP: 146 (10)
+handCount: 369 vs. 370
+MEMCMP: 209 (92)
+handCount: 319 vs. 320
+MEMCMP: 123 (115)
+handCount: 203 vs. 204
+MEMCMP: 242 (44)
+handCount: 173 vs. 174
+MEMCMP: 179 (169)
+handCount: 376 vs. 377
+MEMCMP: 32 (282)
+handCount: 296 vs. 297
+MEMCMP: 22 (110)
+handCount: 12 vs. 13
+MEMCMP: 26 (2)
+handCount: 436 vs. 437
+MEMCMP: 14 (57)
+handCount: 302 vs. 303
+MEMCMP: 230 (263)
+handCount: 306 vs. 307
+MEMCMP: 70 (131)
+handCount: 245 vs. 246
+MEMCMP: 216 (78)
+handCount: 320 vs. 321
+MEMCMP: 207 (25)
+handCount: 171 vs. 172
+MEMCMP: 109 (113)
+handCount: 141 vs. 142
+MEMCMP: 145 (47)
+handCount: 321 vs. 322
+MEMCMP: 189 (272)
+handCount: 372 vs. 373
+MEMCMP: 34 (237)
+handCount: 74 vs. 75
+MEMCMP: 135 (25)
+handCount: 194 vs. 195
+MEMCMP: 29 (110)
+handCount: 338 vs. 339
+MEMCMP: 162 (270)
+handCount: 176 vs. 177
+MEMCMP: 30 (55)
+handCount: 101 vs. 102
+MEMCMP: 72 (5)
+handCount: 205 vs. 206
+MEMCMP: 145 (49)
+handCount: 449 vs. 450
+MEMCMP: 203 (147)
+handCount: 218 vs. 219
+MEMCMP: 99 (123)
+handCount: 14 vs. 15
+MEMCMP: -3 (6)
+handCount: 267 vs. 268
+MEMCMP: 96 (21)
+handCount: 166 vs. 167
+MEMCMP: 33 (110)
+handCount: 279 vs. 280
+MEMCMP: 109 (134)
+handCount: 259 vs. 260
+MEMCMP: 190 (114)
+handCount: 23 vs. 24
+MEMCMP: 33 (8)
+handCount: 494 vs. 495
+MEMCMP: 111 (117)
+handCount: 144 vs. 145
+MEMCMP: 89 (18)
+handCount: 170 vs. 171
+MEMCMP: 80 (12)
+handCount: 41 vs. 42
+MEMCMP: 7 (18)
+handCount: 126 vs. 127
+MEMCMP: 15 (69)
+handCount: 47 vs. 48
+MEMCMP: 152 (35)
+handCount: 310 vs. 311
+MEMCMP: 49 (44)
+handCount: 493 vs. 494
+MEMCMP: 68 (278)
+handCount: 259 vs. 260
+MEMCMP: 105 (63)
+handCount: 471 vs. 472
+MEMCMP: 15 (179)
+handCount: 218 vs. 219
+MEMCMP: 183 (47)
+handCount: 334 vs. 335
+MEMCMP: 74 (170)
+handCount: 123 vs. 124
+MEMCMP: 169 (47)
+handCount: 480 vs. 481
+MEMCMP: 73 (105)
+handCount: 168 vs. 169
+MEMCMP: 103 (45)
+handCount: 40 vs. 41
+MEMCMP: 216 (7)
+handCount: 58 vs. 59
+MEMCMP: 170 (36)
+handCount: 215 vs. 216
+MEMCMP: 6 (139)
+handCount: 427 vs. 428
+MEMCMP: 164 (202)
+handCount: 325 vs. 326
+MEMCMP: 45 (187)
+handCount: 288 vs. 289
+MEMCMP: 84 (217)
+handCount: 213 vs. 214
+MEMCMP: 16 (118)
+handCount: 124 vs. 125
+MEMCMP: 135 (69)
+handCount: 457 vs. 458
+MEMCMP: 166 (268)
+handCount: 203 vs. 204
+MEMCMP: -1 (15)
+handCount: 323 vs. 324
+MEMCMP: 83 (210)
+handCount: 128 vs. 129
+MEMCMP: 68 (75)
+handCount: 183 vs. 184
+MEMCMP: 172 (60)
+handCount: 348 vs. 349
+MEMCMP: 88 (135)
+handCount: 286 vs. 287
+MEMCMP: 138 (1)
+handCount: 430 vs. 431
+MEMCMP: 241 (216)
+handCount: 298 vs. 299
+MEMCMP: 182 (190)
+handCount: 300 vs. 301
+MEMCMP: 162 (263)
+handCount: 236 vs. 237
+MEMCMP: 213 (207)
+handCount: 10 vs. 11
+MEMCMP: 42 (0)
+handCount: 75 vs. 76
+MEMCMP: 219 (67)
+handCount: 304 vs. 305
+MEMCMP: 18 (187)
+handCount: 40 vs. 41
+MEMCMP: 94 (33)
+handCount: 183 vs. 184
+MEMCMP: 99 (24)
+handCount: 302 vs. 303
+MEMCMP: 132 (21)
+handCount: 368 vs. 369
+MEMCMP: 100 (175)
+handCount: 453 vs. 454
+MEMCMP: 98 (7)
+handCount: 337 vs. 338
+MEMCMP: -2 (231)
+handCount: 183 vs. 184
+MEMCMP: 133 (168)
+handCount: 336 vs. 337
+MEMCMP: 42 (225)
+handCount: 464 vs. 465
+MEMCMP: 67 (419)
+handCount: 317 vs. 318
+MEMCMP: 59 (82)
+handCount: 18 vs. 19
+MEMCMP: 181 (5)
+handCount: 486 vs. 487
+MEMCMP: 16 (48)
+handCount: 335 vs. 336
+MEMCMP: 81 (198)
+handCount: 108 vs. 109
+MEMCMP: 82 (12)
+handCount: 158 vs. 159
+MEMCMP: 105 (49)
+handCount: 173 vs. 174
+MEMCMP: 236 (38)
+handCount: 165 vs. 166
+MEMCMP: 7 (14)
+handCount: 74 vs. 75
+MEMCMP: 180 (51)
+handCount: 8 vs. 9
+MEMCMP: 223 (0)
+handCount: 268 vs. 269
+MEMCMP: 79 (203)
+handCount: 165 vs. 166
+MEMCMP: 168 (80)
+handCount: 316 vs. 317
+MEMCMP: 236 (118)
+handCount: 282 vs. 283
+MEMCMP: -4 (236)
+handCount: 330 vs. 331
+MEMCMP: 44 (17)
+handCount: 226 vs. 227
+MEMCMP: 196 (209)
+handCount: 104 vs. 105
+MEMCMP: 50 (71)
+handCount: 173 vs. 174
+MEMCMP: 147 (94)
+handCount: 5 vs. 6
+MEMCMP: 92 (1)
+handCount: 211 vs. 212
+MEMCMP: -5 (51)
+handCount: 482 vs. 483
+MEMCMP: 175 (140)
+handCount: 76 vs. 77
+MEMCMP: 114 (3)
+handCount: 421 vs. 422
+MEMCMP: 166 (142)
+handCount: 220 vs. 221
+MEMCMP: 53 (216)
+handCount: 218 vs. 219
+MEMCMP: 55 (6)
+handCount: 214 vs. 215
+MEMCMP: 179 (159)
+handCount: 256 vs. 257
+MEMCMP: 226 (127)
+handCount: 350 vs. 351
+MEMCMP: 12 (184)
+handCount: 11 vs. 12
+MEMCMP: 118 (3)
+handCount: 438 vs. 439
+MEMCMP: 93 (332)
+handCount: 84 vs. 85
+MEMCMP: 80 (31)
+handCount: 218 vs. 219
+MEMCMP: 246 (63)
+handCount: 111 vs. 112
+MEMCMP: 12 (27)
+handCount: 206 vs. 207
+MEMCMP: 240 (58)
+handCount: 161 vs. 162
+MEMCMP: 233 (44)
+handCount: 486 vs. 487
+MEMCMP: 195 (31)
+handCount: 391 vs. 392
+MEMCMP: 83 (352)
+handCount: 92 vs. 93
+MEMCMP: 98 (31)
+handCount: 487 vs. 488
+MEMCMP: 177 (137)
+handCount: 272 vs. 273
+MEMCMP: 25 (237)
+handCount: 72 vs. 73
+MEMCMP: 48 (31)
+handCount: 106 vs. 107
+MEMCMP: 208 (35)
+handCount: 22 vs. 23
+MEMCMP: 194 (3)
+handCount: 301 vs. 302
+MEMCMP: 159 (138)
+handCount: 248 vs. 249
+MEMCMP: 64 (128)
+handCount: 185 vs. 186
+MEMCMP: 64 (52)
+handCount: 314 vs. 315
+MEMCMP: 67 (296)
+handCount: 138 vs. 139
+MEMCMP: 65 (105)
+handCount: 361 vs. 362
+MEMCMP: 23 (182)
+PASSED: 620 Tests
+FAILED: 1380 Tests - Code 5
+File 'dominion.c'
+Lines executed:16.90% of 651
+Branches executed:15.59% of 417
+Taken at least once:11.27% of 417
+No calls
+dominion.c:creating 'dominion.c.gcov'
+

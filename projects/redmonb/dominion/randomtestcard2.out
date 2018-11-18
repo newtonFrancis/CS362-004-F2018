@@ -1,0 +1,13 @@
+randomtestcard2.c:
+MEMCMP: 237 (3/1/2/0)
+MEMCMP: 71 (3/1/0/2)
+MEMCMP: 237 (3/1/2/0)
+PASSED: 1997 Tests
+FAILED: 3 Tests - Code 5
+File 'dominion.c'
+Lines executed:13.67% of 651
+Branches executed:12.71% of 417
+Taken at least once:7.43% of 417
+No calls
+dominion.c:creating 'dominion.c.gcov'
+

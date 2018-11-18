@@ -1,0 +1,10 @@
+randomtestcard1.c:
+PASSED: 0 Tests
+FAILED: 2000 Tests - Code 1
+File 'dominion.c'
+Lines executed:9.68% of 651
+Branches executed:10.31% of 417
+Taken at least once:4.80% of 417
+No calls
+dominion.c:creating 'dominion.c.gcov'
+
